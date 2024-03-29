@@ -1,0 +1,11 @@
+C:\Users\OverL\Desktop\karlos.sredic.exercise\ASTM_LISCommunication\Logger\bin\Debug\net8.0\Logger.deps.json
+C:\Users\OverL\Desktop\karlos.sredic.exercise\ASTM_LISCommunication\Logger\bin\Debug\net8.0\Logger.dll
+C:\Users\OverL\Desktop\karlos.sredic.exercise\ASTM_LISCommunication\Logger\bin\Debug\net8.0\Logger.pdb
+C:\Users\OverL\Desktop\karlos.sredic.exercise\ASTM_LISCommunication\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OverL\Desktop\karlos.sredic.exercise\ASTM_LISCommunication\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+C:\Users\OverL\Desktop\karlos.sredic.exercise\ASTM_LISCommunication\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+C:\Users\OverL\Desktop\karlos.sredic.exercise\ASTM_LISCommunication\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\OverL\Desktop\karlos.sredic.exercise\ASTM_LISCommunication\Logger\obj\Debug\net8.0\Logger.dll
+C:\Users\OverL\Desktop\karlos.sredic.exercise\ASTM_LISCommunication\Logger\obj\Debug\net8.0\refint\Logger.dll
+C:\Users\OverL\Desktop\karlos.sredic.exercise\ASTM_LISCommunication\Logger\obj\Debug\net8.0\Logger.pdb
+C:\Users\OverL\Desktop\karlos.sredic.exercise\ASTM_LISCommunication\Logger\obj\Debug\net8.0\ref\Logger.dll
